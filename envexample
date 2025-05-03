@@ -1,0 +1,9 @@
+HOST=your_host_here
+ADMIN_USERNAME=your_username_here
+ADMIN_PASSWORD=your_password_here
+DATABASE_NAME=your_database_here
+DATABASE_PORT=your_port_here
+DIALECT="mysql"
+DIALECTMODEL="mysql2"
+PORT="3000"
+TOKEN_SECRET=your_secret_key_here
